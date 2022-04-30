@@ -42,7 +42,7 @@ print(dersler)
 
 
 ### İNDEX EXAMPLE ###
-#dersler=['fizik ','ingilizce','matematik','türk dili ve edebiyatı','coğrafya','kimya']
+dersler=['fizik ','ingilizce','matematik','türk dili ve edebiyatı','coğrafya','kimya']
 print(dersler)
 print(dersler.index('coğrafya'))
 
