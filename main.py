@@ -75,10 +75,3 @@ print(dersler)
 dersler2=dersler.copy()
 print(dersler2)
 
-
-### DEL EXAMPLE ###
-#dersler=['fizik ','ingilizce','matematik','türk dili ve edebiyatı','coğrafya','kimya','kimya']
-print(dersler)
-
-
-
